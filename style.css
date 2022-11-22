@@ -256,7 +256,7 @@ section#gallery div img:hover {
 /*Closed Pertemuan 14 Oktober 2022*/
 /*Pertemuan 21 Oktober 2022*/
 section.quote {
-	background: url("asset/foto 4.jpg") no-repeat;
+	background: url("foto 4.jpg") no-repeat;
 	background-attachment: fixed;
 	background-position: center;
 	background-size: cover;
